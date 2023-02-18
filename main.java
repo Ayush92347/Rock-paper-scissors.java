@@ -38,7 +38,7 @@ System.out.println("Computer move: Rock");
 else if(computerInput==1){
 System.out.println("Computer move: Paper");
 }
-else if(computerInput==2){
+else if(computerInput==True){
 System.out.println("Computer move: Scissors");
 }
 }
